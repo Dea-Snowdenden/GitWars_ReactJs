@@ -1,11 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+# GITWARS
 
-In the project directory, you can run:
+# React App that compares two profiles
 
-`
+# FEATURES
+* Search function
+* Shows profile: picture, number of followers and number of repositories
+* Displays output
+
 ## Folder Structure
 
 ```
@@ -25,10 +28,9 @@ my-app/
     PlayerProfile.js
 ```
 
-### `npm start
+### npm start
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-This basic react project uses API and the user can compare the player profiles through the
-number of followers and repos. 
+![alt-text](versus.png)
